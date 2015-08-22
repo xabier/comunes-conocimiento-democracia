@@ -19,3 +19,13 @@ Este documento busca ser un punto de partida para desarrollar una red inter-inst
 * Modelos organizativos
 * Estrategia y táctica
 * Acciones 
+* 
+
+### Resumen ejecutivo:
+
+* La inteligencia colectiva y los comunes abiertos del conocimiento libre se van a enfrentar a la smart-city y el capitalismo cognitivo, actual motor de la explotacion y la especulacion capitalista
+*   Mantener viva la participacion que ha hecho posible la toma de las instituciones y democratizar la economia son dos prioridades de las mareas del cambio.
+* Estas necesidades son comunes a diferentes territorios y municipios y es necesario un espacio de innovacion ágil, inter-institucional que lidere estos vectores de cambio a través de comunidades abiertas de investigacion, desarrollo y comunicacion.
+*  Es preciso poner las ciudades a cooperar, abriendo canales de participacion transversal, que permitan conectar a agentes de dentro y fuera de las instituciones, en planificacion, investigacion, diagnostico y desarrollo de modelos y tecnologias
+*  Se propone crear un consorcio o mancomunidad de participacion y democracia economica del conocimiento con el partenariado de diferentes municipios (Barcelona, Zaragoza, Madrid, ...) para generar recursos, protocolos, modelos y discurso operativo.
+* Esta nueva institucion-red debe servir de modelo organizativo, de transparencia, de produccion y de participacion.
