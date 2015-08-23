@@ -1,4 +1,4 @@
-# Summary
+# Índice
 
 * [Introduction](README.md)
 * [Antecedentes y conyuntura actual](antecedentes-coyuntura.md)
