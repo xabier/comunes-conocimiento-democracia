@@ -32,6 +32,8 @@ Democracia participativa, comunes del conocimiento, ciudad democráctica, conoci
 
 
 
+* https://github.com/xabier/comunes-conocimiento-democracia
+
 ### Cómo citar este documento
 
 Barandiaran, X. & Vila-Viñas, D. (2015) *Red de comunes democráticas y conocimiento abierto*. https://www.gitbook.com/book/xabier/comunes-conocimiento-democracia/
