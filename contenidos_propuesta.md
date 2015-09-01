@@ -4,20 +4,20 @@ En este punto, el primer objetivo es desarrollar una investigación que permita 
 
 A diferencia de una investigación nueva, se trata en este caso de analizar casos de estudio, sistematizar conocimientos y estandarizar prácticas. En definitiva, generar modelos y tecnologías aplicables partiendo del trabajo ya realizado en diversas áreas de la autorganización del trabajo cognitivo y la democratización de la producción y el gobierno. De una manera modular, sería posible ir liberando capas y modelos de áreas diferentes de manera progresiva (p.e. protocolos y análisis de dificultades y costos y modelos de migración al software libre, o creación de monedas locales, o sistemas de gestión de presupuestos participativos) y desarrollar luego aplicaciones o adaptaciones específicas a contextos urbanos o territoriales diferentes. Al trabajar en un ecosistema de conocimiento libre, todos los avances serían acumulativos y aprovechables por cualquier espacio politico. Esto hace más eficiente el gasto y aumenta las posibilidades políticas de implementación e incorporacion de recursos a la red, a diferencia de un modelo de contratacion de una investigacion concreta con tal empresa o guru. 
 
-* Inteligencia colectiva, participacion y ciudadania
+* Inteligencia colectiva, participación y ciudadanía
   * Sistemas de toma de decisiones
   * Repositorios de iniciativas ciudadanas
-  * Sistemas para la elaboracion colaborativa de normas juridicas (propuestas, discusiones, socializacion, implementacion, evaluacion)
-  * Sistemas para la elaboracion colaborativa de planes estrategicos 2015-2019 y codigos de buenas practicas
-  * Creacion de ecosistemas interoperables de datos abiertos, que habiliten tanto la participacion como la visibilizacion de proyectos de economia social del conocimiento: urbanismo, transporte, ambiente, residuos, agua, recursos comerciales, culturales, formativos...
-  * Mecanismos claros e interoperables de rendicion de cuentas y protocolos para una gobernanza y gestion alternativa de los espacios institucionales
+  * Sistemas para la elaboración colaborativa de normas jurídicas (propuestas, discusiones, socialización, implementación, evaluación)
+  * Sistemas para la elaboración colaborativa de planes estratégicos 2015-2019 y codigos de buenas prácticas
+  * Creación de ecosistemas interoperables de datos abiertos, que habiliten tanto la participación como la visibilización de proyectos de economéa social del conocimiento: urbanismo, transporte, ambiente, residuos, agua, recursos comerciales, culturales, formativos...
+  * Mecanismos claros e interoperables de rendición de cuentas y protocolos para una gobernanza y gestión alternativa de los espacios institucionales
   * Herramientas para urbanismo alternativo
-* Economia social del conocimiento: identificacion de redes de produccion y circulacion de valor (cuidados, cultura, etc.), planificacion de modelos, industrias y relaciones institucion-sociedad-economía 
-  * Herramientas de visibilizacion del trabajo de cuidados y regeneracion de los comunes, como medio para la elaboracion de propuestas de mayor sostenibilidad
-  * Desarrollo de herramientas y programas de educacion abierta aprovechables para los distintos espacios politicos (alfbetizacion en apartados de participacion anteriores,  contenidos vinculados a esta transicion a la economia social del conocimiento)
+* Economía social del conocimiento: identificación de redes de produccion y circulacion de valor (cuidados, cultura, etc.), planificación de modelos, industrias y relaciones institución-sociedad-economía 
+  * Herramientas de visibilización del trabajo de cuidados y regeneración de los comunes, como medio para la elaboración de propuestas de mayor sostenibilidad
+  * Desarrollo de herramientas y programas de educación abierta aprovechables para los distintos espacios políticos (alfbetización en apartados de participación anteriores,  contenidos vinculados a esta transición a la economía social del conocimiento)
   * Proyectos de redes wifi ciudadanas
-  * Elaboracion de herramientas para fortalecer el comercio de proximidad y las iniciativas culturales, formativas, deportivas y de ocio.
-  * Iniciativas de cultura libre y comunitaria, vinculadas a la gestion ciudadana de espacios publicos.
-  * Desarrollo de politicas y programas de apoyo a la innovacion basadas en estos principios y con incidencia en el sector de la economia social y solidaria
+  * Elaboración de herramientas para fortalecer el comercio de proximidad y las iniciativas culturales, formativas, deportivas y de ocio.
+  * Iniciativas de cultura libre y comunitaria, vinculadas a la gestión ciudadana de espacios públicos.
+  * Desarrollo de políticas y programas de apoyo a la innovación basadas en estos principios y con incidencia en el sector de la economía social y solidaria
 
 
