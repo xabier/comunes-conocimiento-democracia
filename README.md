@@ -14,9 +14,11 @@ Este borradore está siendo escrito por Xabier E. Barandiaran y David Vila-Viña
 Este documento busca ser un punto de partida para desarrollar una red inter-institucional y social abierta y común que permita  satisfacer las necesidades de las nuevas formas de participación democrática, producción de conocimiento y articulacion tecnopolitica que  son el eje de la apuesta municipalista de cambio que se vive en  diferentes territorios del estado español. Se detallan: a) los problemas  a los que se enfrenta la revolución democrática y los comunes del  conocimiento (en el marco del capitalismo cognitivo y de las inercias  institucionales heredadas), b) las oportunidades abiertas por las nuevas  formas de comunicacion y producción basadas en los comunes abiertos y  c) una propuesta inter-municipalista y popular, en red, que permita  resolver los problemas de una manera incremental, innovadora, abierta,  recombinante y común, tomando como ejemplos otras nuevas instituciones  globales emergentes que han mostrado la viabilidad de modelos  productivos o instituciones en red capaces de liderar cambios  tecnopolíticos.
 
 ### Estructura:
-* Antecedentes y coyuntura actual
-* Contenidos de la propuesta
-* Estructura de la red
-* Plan de desarrollo
-* Vías de institucionalización y modelos de gestión 
+* [Introduction](README.md)
+* [Resumen ejecutivo](resumen_ejecutivo.md)
+* [Antecedentes y conyuntura actual](antecedentes-coyuntura.md)
+* [Contenidos de la propuesta](contenidos_propuesta.md)
+* [Estructura de la red](estructura-de-la-red.md)
+* [Plan de desarrollo y fases](plan_de_desarrollo_y_fases.md)
+* [Vías de institucionalización y modelos de getión](institucionalizacion_y_gestion.md)
 
