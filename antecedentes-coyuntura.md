@@ -14,3 +14,9 @@ Dicho de otro modo: el proceso de cambio que vivimos va a enfrentarse a dos obst
 
 Pero la capacidad de movilizacion, comunicacion y organizacion social de las nuevas candidaturas muestra que otras formas de hacer son posibles. Y existen además numerosas iniciativas exitosas que están generando otra economía del conocimiento a partir de la capacidad de autorganización productiva basada en los comunes y con modelos de gobernanza y autogestion que comparten principios y practicas con las potencias politicas desencadenadas tras el 15M. FALTA AQUÍ VA LA OTRA MITAD DEL PÁRRAFO "Pero en lo esencial..."
 
+Si bien las potencialidades estan presentes, el reto al que nos enfrentamos para superar los problemas anteriores son principalmente dos:
+
+* Como facilitar y acompañar desde las instituciones y desde las redes de movilizacion ciudadana las formas de economia basadas en la inteligencia colectiva y los comunes abiertos del conocimiento libre, frente al dominante modelo de la smart-city y el capitalismo cognitivo
+* Como mantener viva y efectiva la participacion que ha hecho posible la toma de las instituciones tanto en la gestion administrativa como en la economia social.
+
+Estos retos requieren una acción coordinada en planificacion, investigacion, diagnostico y desarrollo de modelos y tecnologias que permitan reconfigurar las ciudades en clave cooperativa.
