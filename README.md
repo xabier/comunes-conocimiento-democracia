@@ -3,7 +3,7 @@
 ## ¿Qué es este documento?
 Este es un informe (o libro blanco) que quiere servir de documento base para la creación de una red de comunes participativos del conocimiento aplicados a la nueva realidad abierta por las TIC y por los modelos participativos que la hacen posible, así como por las formas de gestión y producción de conocimiento basadas en los comunes.
 
-El documento quiere ser un espacio vivo de debate participativo y producción colectiva. Para ello estamos usando la tecnología de [Github](http://github.com] a través del [Gitbook](http://gitbook.com), lo que permite una edición colaborativa, el control de versiones, la cuantificación de las contribuciones y la creación de obras derivadas, todo ello de manera automática. También puedes contribuir editando directamente el documento desde github o desde tu repositorio git local.
+El documento quiere ser un espacio vivo de debate participativo y producción colectiva. Para ello estamos usando la tecnología de [Github](http://github.com) a través del [Gitbook](http://gitbook.com), lo que permite una edición colaborativa, el control de versiones, la cuantificación de las contribuciones y la creación de obras derivadas, todo ello de manera automática. También puedes contribuir editando directamente el documento desde github o desde tu repositorio git local.
 
 ## Meta-datos 
 
