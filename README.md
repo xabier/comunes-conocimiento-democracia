@@ -16,7 +16,7 @@ Este documento busca ser un punto de partida para desarrollar una red inter-inst
 
 ### Palabras clave
 
-Democracia participativa, comunes del conocimiento, ciudad democráctica, conocimiento abierto, democracia directa, economía social del conocimiento.
+Democracia participativa, comunes del conocimiento, ciudad democrática, conocimiento abierto, democracia directa, economía social del conocimiento.
 
 
 ### Estructura
@@ -36,7 +36,7 @@ Democracia participativa, comunes del conocimiento, ciudad democráctica, conoci
 
 ### Cómo citar este documento
 
-Barandiaran, X. & Vila-Viñas, D. (2015) *Red de comunes democráticas y conocimiento abierto*. https://www.gitbook.com/book/xabier/comunes-conocimiento-democracia/
+Barandiaran, X. & Vila-Viñas, D. (2015) *Red de comunes democráticos y conocimiento abierto*. https://www.gitbook.com/book/xabier/comunes-conocimiento-democracia/
 
 ### Licencia
 
