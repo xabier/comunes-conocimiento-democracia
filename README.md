@@ -30,9 +30,7 @@ Democracia participativa, comunes del conocimiento, ciudad democrática, conocim
 
 ### Fuentes 
 
-
-
-* https://github.com/xabier/comunes-conocimiento-democracia
+Este documento está escrito en lenguaje Markdown, está dividido en diferentes archivos (uno por cada sección), puedes encontrar los archivos para descarga o copia en:  https://github.com/xabier/comunes-conocimiento-democracia
 
 ### Cómo citar este documento
 
