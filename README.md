@@ -28,6 +28,10 @@ Democracia participativa, comunes del conocimiento, ciudad democráctica, conoci
 * [Plan de desarrollo y fases](plan_de_desarrollo_y_fases.md)
 * [Vías de institucionalización y modelos de getión](institucionalizacion_y_gestion.md)
 
+### Fuentes 
+
+
+
 ### Cómo citar este documento
 
 Barandiaran, X. & Vila-Viñas, D. (2015) *Red de comunes democráticas y conocimiento abierto*. https://www.gitbook.com/book/xabier/comunes-conocimiento-democracia/
