@@ -1,6 +1,4 @@
-# Antecedentes y coyuntura
-
-## Inteligencia colectiva y comunes abiertos del conocimiento libre frente a la *smart-city* y el capitalismo cognitivo
+# Antecedentes y coyuntura: Inteligencia colectiva y comunes abiertos del conocimiento libre frente a la *smart-city* y el capitalismo cognitivo
 
 
 FALTA METE TÚ AQUÍ DAVID y el escenario economico resultante, que encuentra en las ciudades sus nodos de extraccion de renta (tanto a traves de la especulacion de la vivienda, ahora ya estallada y cuyas consecuencias es preciso atender urgentemente, como en las nuevas formas de especulacion que ensaya ya el capitalismo cognitivo). Junto a la apertura democratica radical, la democratizacion de la economia, y la economia de la democratizacion, es una de nuestras principales apuestas. No habra cambio politico si este no viene acompañado de una reconstruccion comun del tejido productivo y un empoderamiento del tejido social. 
@@ -13,4 +11,6 @@ FALTA AQUÍ TAMBIÉN METE UN PARRAFO ENTERO QUE ES CASI TUYO HASTA LOS BULLET PO
 
 Dicho de otro modo: el proceso de cambio que vivimos va a enfrentarse a dos obstáculos principales: la dependencia de empresas que ya gestionan lo público (desde google maps hasta Microsoft, desde Uber hasta AirBnB) y los hábitos de gestion administrativa y de vida tan enraizados en los cuerpos y mentes de la ciudadania, tanto en lo (re)productivo como en lo politico.
 
+
+Pero la capacidad de movilizacion, comunicacion y organizacion social de las nuevas candidaturas muestra que otras formas de hacer son posibles. Y existen además numerosas iniciativas exitosas que están generando otra economía del conocimiento a partir de la capacidad de autorganización productiva basada en los comunes y con modelos de gobernanza y autogestion que comparten principios y practicas con las potencias politicas desencadenadas tras el 15M. FALTA AQUÍ VA LA OTRA MITAD DEL PÁRRAFO "Pero en lo esencial..."
 
