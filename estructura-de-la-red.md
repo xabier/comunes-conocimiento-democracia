@@ -7,6 +7,7 @@ La red buscaría ser un repositorio de textos, herramientas y recursos al modo e
 * Textos jurídicos: iniciativas legislativas, estatutos, tipos de contratos, licencias, tipos de convenios, etc.
 * Sistemas democráticos: tipos de votos, preferencias, listas, procedimientos de tomas de decisiones, deliberación, etc.
 * Sistema de medidas, cuantificación, evaluación y calidad.
+* Comunicación: iconografía, términos, etc.
 
 La red serviría para seleccionar, depurar y catalogar recursos en cada uno de estos ejes, con comités que garanticen la calidad de los recursos y personas encargadas de describir y "empaquetar" (enlazar, incluir metadatos, actualizar, etc.) cada uno de los recursos.
 
