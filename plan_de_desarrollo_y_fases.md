@@ -8,5 +8,5 @@ El proyecto debe crecer en diferentes fases, abarcando un creciente número de a
   2. Análisis y desarrollo de objetivos y modos de funcionamiento.
   3. Primeros contenidos básicos
   3. Estudio de vias de institucionalización oficial.
-3. Fase de Institucionalización: Requiere buscar un formato (fundación, consorcio, mancomunidad, etc.) que pueda sostener una gobernanza participativa y abierta al mismo tiempo que permite la puesta en común de recursos económicos, de servicios y/o personal.
+3. Fase de Institucionalización: Requiere buscar un formato (fundación, consorcio, mancomunidad, etc.) que pueda sostener una gobernanza participativa y abierta al mismo tiempo que permite la puesta en común de recursos económicos, de servicios y/o personal. (ver sección [Institucionalización y gestión](institucionalizacion_y_gestion.md))
 
