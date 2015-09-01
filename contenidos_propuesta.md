@@ -12,7 +12,7 @@ A diferencia de una investigación nueva, se trata en este caso de analizar caso
   * Creación de ecosistemas interoperables de datos abiertos, que habiliten tanto la participación como la visibilización de proyectos de economéa social del conocimiento: urbanismo, transporte, ambiente, residuos, agua, recursos comerciales, culturales, formativos...
   * Mecanismos claros e interoperables de rendición de cuentas y protocolos para una gobernanza y gestión alternativa de los espacios institucionales
   * Herramientas para urbanismo alternativo
-* Economía social del conocimiento: identificación de redes de produccion y circulacion de valor (cuidados, cultura, etc.), planificación de modelos, industrias y relaciones institución-sociedad-economía 
+* Economía social del conocimiento: identificación de redes de producción y circulación de valor (cuidados, cultura, etc.), planificación de modelos, industrias y relaciones institución-sociedad-economía 
   * Herramientas de visibilización del trabajo de cuidados y regeneración de los comunes, como medio para la elaboración de propuestas de mayor sostenibilidad
   * Desarrollo de herramientas y programas de educación abierta aprovechables para los distintos espacios políticos (alfbetización en apartados de participación anteriores,  contenidos vinculados a esta transición a la economía social del conocimiento)
   * Proyectos de redes wifi ciudadanas
