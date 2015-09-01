@@ -1,3 +1,16 @@
 # Antecedentes y coyuntura
 
-## Inteligencia colectiva y comunes abiertos del conocimiento libre frente a la smart-city y el capitalismo cognitivo
+## Inteligencia colectiva y comunes abiertos del conocimiento libre frente a la *smart-city* y el capitalismo cognitivo
+
+
+FALTA METE TÚ AQUÍ DAVID y el escenario economico resultante, que encuentra en las ciudades sus nodos de extraccion de renta (tanto a traves de la especulacion de la vivienda, ahora ya estallada y cuyas consecuencias es preciso atender urgentemente, como en las nuevas formas de especulacion que ensaya ya el capitalismo cognitivo). Junto a la apertura democratica radical, la democratizacion de la economia, y la economia de la democratizacion, es una de nuestras principales apuestas. No habra cambio politico si este no viene acompañado de una reconstruccion comun del tejido productivo y un empoderamiento del tejido social. 
+
+
+FALTA AQUÍ TAMBIÉN METE UN PARRAFO ENTERO QUE ES CASI TUYO HASTA LOS BULLET POINT, Y BORRA ESTO :)
+
+* La inteligencia colectiva está siendo articulada por "pequeñas" empresas privadas de economia colaborativa o por grandes corporaciones que prestan servicios gratuitos. En cierto modo el sector privado esta adelantando formas de gestion de servicios tipicamente públicos (mapas, transporte, colaboracion social, etc.) amasando para si grandes bancos de usuarias cercadas en sistemas informáticos cerrados. La riqueza urbana está siendo organizada y extraida por nuevas formas de capitalismo que atraviesan el binomio privado-publico.
+* El cambio politico no podra avanzar si no viene acompañado de una serie de transformaciones socio-economicas e institucionales que hagan posible el desarrollo de un comportamiento economico y social progresivamente desligado de las estructuras y tendencias que imprime el capitalismo. Esta dificultad es doble: a) por un lado es clientelar: el funcionamiento de las instituciones públicas depende de una serie de practicas (internas y externas) clientelares que reposan sobre empresas (publicas y privadas) que impiden una participacion social y economica de la ciudadania (p.e. dependencia clientelar de empresas de software o gestion del transporte publico), b) por otro lado es cultural-comportamental con una gran carga cognitiva, emocional y comunicativa: mientras que el capitalismo cognitivo y "colaborativo" ha imprimido profundas pautas de comportamiento y hábitos de funcionamiento y consumo en la sociedad, las alternativas cooperativas no disponen ni de una capacidad de inversion publicitaria ni de una historia (ya casi borrada) de incidencia repetitiva sobre los hábitos comportamentales de la ciudadania que permita, de manera efectiva, sustraer a grandes sectores de la poblacion (incluido el funcionariado) de las estructuras organizativas, economicas y tecnologicas que controla el capitalismo.
+
+Dicho de otro modo: el proceso de cambio que vivimos va a enfrentarse a dos obstáculos principales: la dependencia de empresas que ya gestionan lo público (desde google maps hasta Microsoft, desde Uber hasta AirBnB) y los hábitos de gestion administrativa y de vida tan enraizados en los cuerpos y mentes de la ciudadania, tanto en lo (re)productivo como en lo politico.
+
+
