@@ -24,7 +24,7 @@ Este documento busca ser un punto de partida para desarrollar una red inter-inst
 
 ### Cómo citar este documento
 
-Barandiaran, X. & Vila-Viñas, D. (2015) 
+Barandiaran, X. & Vila-Viñas, D. (2015) *Red de comunes democráticas y conocimiento abierto*. 
 
 ### Licencia
 
